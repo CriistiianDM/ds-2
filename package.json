@@ -6,12 +6,18 @@
   "scripts": {
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CriistiianDM/ds-2.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CriistiianDM/ds-2/issues"
+  },
+  "homepage": "https://github.com/CriistiianDM/ds-2#readme",
   "devDependencies": {
-    "babel-jest": "^29.7.0",
-    "jest": "^29.7.0",
-    "regenerator-runtime": "^0.14.0"
+    "jest": "^29.7.0"
   }
 }
